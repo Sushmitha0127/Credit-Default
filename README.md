@@ -9,6 +9,7 @@ The process is done by supervised learning algorithm.
 Algorithms Used are KNN, Decision Tree Classifier, Logistic Regression, GaussianNB, XGBClassifier, RandomForest Classifier.
 
 Data Dictionary
+
 X1: Amount of the given credit : it includes both the individual consumer credit and his/her family (supplementary) credit. 
 X2: Gender (1 = male; 2 = female). 
 X3: Education (1 = graduate school; 2 = university; 3 = high school; 4 = others). 
